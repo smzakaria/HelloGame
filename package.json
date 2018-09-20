@@ -2,6 +2,7 @@
   "name": "hellogame",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://smzakaria.github.io/hellogame",
   "dependencies": {
     "bootstrap": "^4.1.3",
     "font-awesome": "^4.7.0",
